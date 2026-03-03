@@ -1,0 +1,10 @@
+test1 = [90,92,76,86,67]
+print(len(test1))
+print(sum(test1) / len(test1))
+print(sorted(test1))
+print(test1)
+print(sorted(test1,reverse=True))
+weekdays=('Mon','Tus','Wed','Thu','Fri')
+print('Wed' in weekdays)
+print('Sun' in weekdays)
+print('Sat' not in weekdays)
