@@ -10,7 +10,8 @@ print(sum(test2))
 
 test3 = set([90,92,76,76,76])
 print(test3)
-print(sum(test2))
+print(sum(test3))
 
 test4= {90,"A",76,"A",76}
+
 print(test4)
