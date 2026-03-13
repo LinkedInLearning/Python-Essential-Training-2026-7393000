@@ -1,11 +1,9 @@
-longStr = """遠い昔
-はるか銀河の
-・・・
-再び、銀河全体を覆いつつある"""
+longStr = """そのときは気付かないかもしれないが、
+ひどい出来事こそあなたにとって最高の出来事になりうる"""
 
-print(longStr.find("銀河"))
-print(longStr.find("黄河"))
-print(longStr.count("銀河"))
+print(longStr.find("最高"))
+print(longStr.find("最低"))
+print(longStr.count("出来事"))
 
-print(longStr.startswith("遠い昔"))
-print(longStr.endswith("ない"))
+print(longStr.startswith("そのときは"))
+print(longStr.endswith("になりうる"))
