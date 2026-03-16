@@ -1,6 +1,6 @@
 import csv
 
-f = open("test.csv", "w")
+f = open("07/test.csv", "w")
 
 writer = csv.writer(f, lineterminator='\n')
 writer.writerow([1,"北海道",1000000])
