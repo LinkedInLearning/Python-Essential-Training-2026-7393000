@@ -1,6 +1,6 @@
 import csv
 
-f = open("fruits.csv","r")
+f = open("07/fruits.csv","r")
 reader = csv.reader(f)
 for row in reader:
     for col in row:
