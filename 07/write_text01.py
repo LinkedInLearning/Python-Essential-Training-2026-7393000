@@ -1,4 +1,4 @@
-f = open("test.txt","w")
+f = open("07/test.txt","w")
 f.write("Hello\n")
 f.write("Good bye\n")
 
