@@ -1,6 +1,6 @@
 import json
 try:
-    f = open("test.json","r")
+    f = open("07/test.json","r")
     data = json.load(f)
     print(data)
     print(data["11012"])
