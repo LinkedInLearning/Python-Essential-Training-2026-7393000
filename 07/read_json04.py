@@ -1,6 +1,6 @@
 import json             #jsonモジュールをインポート
 try:
-    f = open("test.json","r")
+    f = open("07/test.json","r")
 except FileNotFoundError as e: 
     print("ファイル{}が見つかりません".format(e.filename))
 else:
