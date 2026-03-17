@@ -1,7 +1,7 @@
 import json
 
 try:
-    with open('config.json', 'r') as file:
+    with open('07/config.json', 'r') as file:
         config = json.load(file)
 except FileNotFoundError:
     print("設定ファイルが見つかりません。デフォルト設定を使用します。")
