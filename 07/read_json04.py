@@ -2,7 +2,7 @@ import json             #jsonモジュールをインポート
 try:
     f = open("07/test.json","r")
 except FileNotFoundError as e: 
-    print("ファイル{}が見つかりません".format(e.filename))
+    print(f"ファイル{e.filename}が見つかりません")
 else:
     data = json.load(f)     #loadで読み込む
     print(data)             #辞書として取得
