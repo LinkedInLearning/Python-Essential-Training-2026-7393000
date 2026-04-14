@@ -31,5 +31,5 @@ setx OPENAI_API_KEY "your_api_key_here"
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/python-essential-training
+[lil-course-url]: https://www.linkedin.com/learning/python-essential-training-2026
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQHtS4-dZZEKTg/learning-public-crop_675_1200/B56Z1pWYLAJkAc-/0/1775588967357?e=2147483647&v=beta&t=n89eaAG2XnUzBL1QqNVM8Mq429tKI5Kyo6d17xwKmnE
